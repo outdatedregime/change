@@ -6,7 +6,7 @@ So, you're tired of the Russian state invading other countries?
 
 Maybe Russians aren't as "informed" as they could be, maybe it's an old auntie believing in the lies of their last century regime trying to just be a good citizen. Let the user know that’s an outdated regime, and advise them to make an active choice to inform themselves.
 
-With this solution you can check if the user is visting from the russian regime. If so, it will redirect them to a cool [looking notice](https://outdatedregime.github.io/change/index.html) advising the user seek alteranative news sources that are beyond the russian state propaganda wall. It’ll be up to the user to change their opinion on the regime. We cannot force the user!
+With this solution you can check if the user is visting from the russian regime. If so, it will redirect them to a cool **[looking notice](https://outdatedregime.github.io/change/index.html)** advising the user seek alteranative news sources that are beyond the russian state propaganda wall. It’ll be up to the user to change their opinion on the regime. We cannot force the user!
 
 That's it! As simple as it can get.
 
