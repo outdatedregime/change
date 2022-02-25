@@ -2,6 +2,8 @@
 
 ### A time saving tool for developers. It detects outdated regimes and advises users to upgrade to a new, more peaceful version.
 
+Block Russian users, redirect Russian users automatically.
+
 So, you're tired of the Russian state invading other countries?
 
 Maybe Russians aren't as "informed" as they could be, maybe it's an old auntie believing in the lies of their last century regime trying to just be a good citizen. Let the user know that’s an outdated regime, and advise them to make an active choice to inform themselves.
