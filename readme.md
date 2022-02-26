@@ -1,6 +1,6 @@
 # Outdated Regime v1.0
 
-### A time saving tool for developers. It detects outdated regimes and advises users to upgrade to a new, more peaceful version.
+### Block people visiting your website from Russia, redirect them to a page telling them their Regime is outdated and offering them unbiased news sources in their language.
 
 Block Russian users, redirect Russian users automatically.
 
@@ -27,7 +27,9 @@ And you're done!
 ***
 
 
-## How to install
+## Open Analytics
+
+[View Traffic](https://simpleanalytics.com/outdatedregime.github.io)
 
 
 ## Team
