@@ -18,7 +18,7 @@ That's it! As simple as it can get.
 1. Include the JS located in the HTML head:
 
     ```html
-    <script src="https://outdatedregime.github.io/change/regimechange.js"></script>
+    <script defer src="https://outdatedregime.github.io/change/regimechange.js"></script>
     ```
 
 And you're done!
