@@ -1,5 +1,5 @@
 var redirectCountry = "RU";
-var otherSite = "https://outdatedregime.github.io/change/index.html";
+var otherSite = "https://tinyurl.com/outdatedregime";
 fetch("https://ipapi.co/country/")
     .then((response) => {
         if (response.ok) {
