@@ -15,7 +15,7 @@ That's it! As simple as it can get.
 ## How to use it
 
 
-Add this line of code anywhere in your <head> or <body> of your website.
+Add this line of code anywhere in the `<head>` or `<body>` of your website.
 
 `<script defer src="https://outdatedregime.github.io/change/regimechange.js"></script>`
 
