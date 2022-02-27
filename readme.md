@@ -38,6 +38,14 @@ Made with love for the people of Ukraine.
 
 This project is a satire and uses the design and concept of an outdated browser warning that was originally designed at [Bürocratik](http://burocratik.com).<br>
 
+## FAQ
+
+### What about my SEO?
+The script checks for Google bots and will only redirect if it is a human.
+
+### Will my website show up in the analytics?
+No, the script sends people via a link shortener that hides the the referrer.
+
 
 ## License
 
