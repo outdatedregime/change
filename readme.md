@@ -17,9 +17,7 @@ That's it! As simple as it can get.
 
 Add this line of code anywhere in your <head> or <body> of your website.
 
-    ```html
-    <script defer src="https://outdatedregime.github.io/change/regimechange.js"></script>
-    ```
+`<script defer src="https://outdatedregime.github.io/change/regimechange.js"></script>`
 
 And you're done!
 
